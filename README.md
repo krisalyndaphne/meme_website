@@ -5,6 +5,7 @@
 This is a simple webpage that fetches and displays random dog images using the Dog CEO API. Click the button to get a new adorable dog picture!
 
 🚀 Features
+
 ✅ Fetches and displays a random dog image
 
 ✅ Simple and lightweight design
