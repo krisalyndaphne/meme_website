@@ -6,7 +6,9 @@ This is a simple webpage that fetches and displays random dog images using the D
 
 🚀 Features
 ✅ Fetches and displays a random dog image
+
 ✅ Simple and lightweight design
+
 ✅ Uses JavaScript fetch() to get data from the API
 
 🛠️ How to Use
