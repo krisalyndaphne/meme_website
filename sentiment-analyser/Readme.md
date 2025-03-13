@@ -15,8 +15,8 @@ This project uses the API Layer Sentiment Analysis API to determine the sentimen
 🚀 How to Use:
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/sentiment-analysis.git
-cd sentiment-analysis
+git clone https://github.com/krisalyndaphne/meme_website.git
+cd meme_website
 ```
 Install dependencies:
 ```
@@ -33,7 +33,7 @@ https://apilayer.com/marketplace/sentiment-api
 
 3. generate api key
 
-# Add the api key into the main code analyse.py replace it in the apikey variable
+Add the api key into the main code analyse.py replace it in the apikey variable
 
 Run the script:
 ```
