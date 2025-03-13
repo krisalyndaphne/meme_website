@@ -2,10 +2,10 @@ import requests
 
 url = "https://api.apilayer.com/sentiment/analysis"
 headers = {
-    "apikey": "HvRd94EyeGJXdtXlJ7cia0vnNk9UPVqo",
+    "apikey": "Enter your api key",
     "Content-Type": "application/json"
 }
-payload = {"text": "woah so frustrating i am angry"}
+payload = {"text": "woah so frustrating i am angry"} //example ..// give ur own text
 
 response = requests.post(url, headers=headers, json=payload)
 
